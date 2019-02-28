@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hahahannes/cordova-plugin-google-nearby.git"
+    "url": "https://github.com/fabioseno/cordova-plugin-google-nearby"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hahahannes/cordova-plugin-google-nearby/issues"
+    "url": "https://github.com/fabioseno/cordova-plugin-google-nearby/issues"
   },
-  "homepage": "https://github.com/hahahannes/cordova-plugin-google-nearby#readme",
+  "homepage": "https://github.com/fabioseno/cordova-plugin-google-nearby#readme",
   "keywords": [
     "ecosystem:cordova",
     "cordova-android"
